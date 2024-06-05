@@ -86,8 +86,7 @@ There are several key concerns:
 
 **Enhancement:**
 In the starter project, I implemented the following improvements to address these issues:
-
-... SOON
-
-
-
+- **Unified Linting & Formatting:** Established ESLint and Prettier configurations with customized rules to ensure uniformity in code style and formatting across the team, facilitating smoother code reviews and collaboration. Can Enhance More With [husky & lint-stage](https://www.youtube.com/watch?v=NK4uXmkGMSU).
+- **Effective TypeScript Usage:** Implemented TypeScript best practices, including strict typing and avoiding the indiscriminate use of `any` types. Integrated ESLint rules to enforce proper TypeScript usage, reducing the likelihood of runtime errors.
+- **Code File Optimization:** Adopted an Atomic Design approach to break down components into smaller, more manageable units with clear responsibilities. This restructuring enhances code readability and simplifies future maintenance tasks.
+- **Structured Folder Organization:** Implemented a By-Feature folder structure, organizing modules based on individual features. This organization enhances project clarity and facilitates feature reuse across multiple projects.
