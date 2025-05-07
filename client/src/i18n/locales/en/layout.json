@@ -1,0 +1,18 @@
+{
+  "SWITCH_LANG": "Toggle to Arabic",
+  "SWITCH_TO_DARK_THEME": "Dark Mode",
+  "SWITCH_TO_LIGHT_THEME": "Light Mode",
+  "NOTIFICATIONS": "Notifications",
+  "USER_LOADING": "User Loading",
+  "GETTING_USER_ERROR ": "Error While Getting User",
+  "ACCOUNT_SETTINGS": "Account Settings",
+  "PROFILE": "Profile",
+  "SETTINGS": "Settings",
+  "LOGOUT": "Logout",
+  "ENGLISH_LANG": "English",
+  "ARABIC_LANG": "Arabic",
+  "THEME": "Theme",
+  "LANGUAGE": "Language",
+  "DARK": "Dark",
+  "LIGHT": "Light"
+}

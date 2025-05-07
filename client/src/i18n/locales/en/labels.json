@@ -1,0 +1,73 @@
+{
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "login_with_otp": "Login with OTP",
+  "loading": "Loading",
+  "phone": "Phone Number",
+  "roles": "Roles",
+  "avatar": "Avatar",
+
+  "id": "ID",
+  "name": "Name",
+  "status": "Status",
+  "type": "Type",
+  "created_at": "Created At",
+  "actions": "Actions",
+  "description": "Description",
+
+  "LOGIN_SUCCESS": "Login successful",
+  "LOGOUT_SUCCESS": "Logout successful",
+  "VALIDATION_ERROR": "Validation error occurred",
+  "SAVED_SUCCESS": "Saved successfully",
+  "DELETED_SUCCESS": "Deleted successfully",
+  "EDITED_SUCCESS": "Edited successfully",
+  "SOMETHING_WENT_WRONG": "Something went wrong",
+  "USER_PERMISSIONS_ERROR": "Failed to retrieve user permissions, please log in again",
+  "ACCESS_DENIED": "Access denied",
+
+  "BACK": "Back",
+  "SAVE": "Save",
+  "CONFIRM": "Confirm",
+
+  "USERS": "Users",
+  "USERS_MANAGEMENT": "Users Management",
+  "signIn": "Sign In",
+  "USER_DETAILS": "User Details",
+  "ADD_USER": "Add New User",
+
+  "search": "Search",
+  "export": "Export",
+  "filter": "Filter",
+  "changeImg": "Change Image",
+  "removeImg": "Remove Image",
+  "add": "Add",
+  "edit": "Edit",
+  "delete": "Delete",
+  "reset": "Reset",
+  "deleteSelected": "Delete Selected",
+  "user_permissions": "Permissions",
+  "assign_role": "Assign Roles",
+  "add_user": "Add Users",
+
+  "selectedItems": "{{number}} item(s) selected",
+
+  "loginWithOTP": "Login With OTP",
+  "PerPage": "Per Page",
+  "Total": "Total",
+
+  "Add_ROLE": "Add New Role",
+  "Edit_ROLE": "Edit Role",
+  "Add_GROUP": "Add New Group",
+  "Edit_GROUP": "Edit Group",
+  "GROUPS": "Groups",
+  "ROLES": "Roles",
+  "USER_PERMISSIONS": "User Permissions",
+  "ROLE_PERMISSIONS": "Role Permissions",
+
+  "SELECT_ALL": "Select All",
+  "VIEW_ONLY": "View Only",
+
+  "COMPANY_NAME": "ITQAN"
+}

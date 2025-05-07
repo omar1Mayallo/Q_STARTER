@@ -1,0 +1,74 @@
+{
+  "username": "اسم المستخدم",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "login_with_otp": "تسجيل الدخول برمز مرة واحدة",
+  "loading": "جار التحميل",
+  "phone": "رقم الهاتف",
+  "roles": "الادوار",
+  "avatar": "الصورة",
+
+  "id": "الرقم التسلسلي",
+  "name": "الاسم",
+  "status": "الحالة",
+  "type": "النوع",
+  "created_at": "تاريخ الإنشاء",
+  "actions": "الإجراءات",
+  "description": "الوصف",
+
+  "LOGIN_SUCCESS": "تم تسجيل الدخول بنجاح",
+  "LOGOUT_SUCCESS": "تم تسجيل الخروج بنجاح",
+  "VALIDATION_ERROR": "حدث خطأ أثناء التحقق",
+  "SAVED_SUCCESS": "تم الحفظ بنجاح",
+  "DELETED_SUCCESS": "تم الحذف بنجاح",
+  "EDITED_SUCCESS": "تم التعديل بنجاح",
+  "SOMETHING_WENT_WRONG": "حدث خطأ ما",
+  "USER_PERMISSIONS_ERROR": "فشل في استرجاع أذونات المستخدم، يرجى تسجيل الدخول مرة أخرى",
+  "ACCESS_DENIED": "تم رفض الوصول",
+
+  "BACK": "رجوع",
+  "SAVE": "حفظ",
+  "CONFIRM": "تاكيد",
+
+  "USERS": "المستخدمين",
+  "USERS_MANAGEMENT": "إدارة المستخدمين",
+  "signIn": "تسجيل الدخول",
+  "USER_DETAILS": "تفاصيل المستخدم",
+  "ADD_USER": "اضافة مستخدم جديد",
+
+  "search": "بحث",
+  "export": "تصدير",
+  "filter": "تصفية",
+  "add": "إضافة",
+  "edit": "تعديل",
+  "changeImg": "تغيير الصورة",
+  "removeImg": "حذف الصورة",
+  "delete": "حذف",
+  "reset": "إعادة تعيين",
+  "deleteSelected": "حذف المحدد",
+  "user_permissions": "الاذونات",
+  "assign_role": "تعيين الادوار",
+  "add_user": "اضافة مستخدمين",
+
+  "selectedItems": "{{number}} عناصر محددة",
+
+  "loginWithOTP": "تسجيل الدخول برمز مرة واحدة",
+  "PerPage": "لكل صفحة",
+  "Total": "العدد الكلي",
+
+  "Add_ROLE": "اضافة دور جديد",
+  "Edit_ROLE": "تعديل دور",
+  "Add_GROUP": "اضافة مجموعة جديدة",
+  "Edit_GROUP": "تعديل مجموعة",
+
+  "ROLES": "الادوار",
+  "GROUPS": "المجموعات",
+  "USER_PERMISSIONS": "أذونات المستخدم",
+  "ROLE_PERMISSIONS": "أذونات الدور",
+
+  "SELECT_ALL": "اختيار الكل",
+  "VIEW_ONLY": "عرض فقط",
+
+  "COMPANY_NAME": "اتقان"
+}

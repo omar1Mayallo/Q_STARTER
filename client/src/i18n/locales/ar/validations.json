@@ -1,0 +1,20 @@
+{
+  "EMAIL_REQUIRED": "البريد الإلكتروني مطلوب",
+  "PASSWORD_REQUIRED": "كلمة المرور مطلوبة",
+  "INVALID_EMAIL": "صيغة البريد الإلكتروني غير صحيحة",
+  "PASSWORD_REGEX": "صيغة كلمة السر غير صحيحة. يجب أن تحتوي على حرف صغير، حرف كبير، حرف خاص، وتكون من 8 إلى 25 حرفًا",
+  "USERNAME_REGEX": "تنسيق اسم المستخدم غير صحيح. يجب أن يحتوي فقط على الأحرف، الأرقام، الشرطات السفلية، والحروف العربية، ويكون بين 3 و 30 حرفًا",
+  "USERNAME_REQUIRED": "اسم المستخدم مطلوب",
+  "INVALID_PHONE": "رقم الهاتف غير صالح",
+  "PHONE_REQUIRED": "رقم الهاتف مطلوب",
+  "STATUS_REQUIRED": "الحالة مطلوبة",
+  "USER_TYPE_REQUIRED": "نوع المستخدم مطلوب",
+  "AVATAR_REQUIRED": "الصورة مطلوبة",
+  "PASSWORDS_NOT_MATCHES": "كلمات المرور غير متطابقة",
+  "CONFIRM_PASSWORD_REQUIRED": "كلمة المرور مطلوبة",
+  "NAME_TOO_SHORT": "الاسم قصير جدًا",
+  "NAME_TOO_LONG": "الاسم طويل جدًا",
+  "DESCRIPTION_TOO_LONG": "الوصف طويل جدًا",
+  "ROLE_TYPE_REQUIRED": "نوع الدور مطلوب",
+  "GROUP_TYPE_REQUIRED": "نوع المجموعة مطلوب"
+}

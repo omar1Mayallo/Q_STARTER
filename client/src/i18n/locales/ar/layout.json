@@ -1,0 +1,18 @@
+{
+  "SWITCH_LANG": "تبديل الي الانجليزية",
+  "SWITCH_TO_DARK_THEME": "المظهر الداكن",
+  "SWITCH_TO_LIGHT_THEME": "المظهر الفاتح",
+  "NOTIFICATIONS": "الاشعارات",
+  "USER_LOADING": "جار تحميل المستخدم",
+  "GETTING_USER_ERROR ": "حدث خطأ أثناء طلب المستخدم",
+  "ACCOUNT_SETTINGS": "اعدادات الحساب",
+  "PROFILE": "الحساب الشخصي",
+  "SETTINGS": "الاعدادات",
+  "LOGOUT": "تسجيل الخروج",
+  "ENGLISH_LANG": "الانجليزية",
+  "ARABIC_LANG": "العربية",
+  "THEME": "المظهر",
+  "LANGUAGE": "اللغة",
+  "DARK": "الداكن",
+  "LIGHT": "الفاتح"
+}

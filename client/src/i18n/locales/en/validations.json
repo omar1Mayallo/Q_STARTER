@@ -1,0 +1,20 @@
+{
+  "EMAIL_REQUIRED": "Email is required",
+  "PASSWORD_REQUIRED": "Password is required",
+  "INVALID_EMAIL": "Invalid email format",
+  "PASSWORD_REGEX": "Invalid password format. It must contain a lowercase letter, an uppercase letter, a special character, and be between 8 and 25 characters long",
+  "USERNAME_REGEX": "Invalid username format. It should only contain letters, numbers, underscores, and Arabic characters, and be between 3 and 30 characters long",
+  "USERNAME_REQUIRED": "Username is required",
+  "INVALID_PHONE": "Invalid phone number",
+  "PHONE_REQUIRED": "Phone number is required",
+  "STATUS_REQUIRED": "Status is required",
+  "USER_TYPE_REQUIRED": "User type is required",
+  "AVATAR_REQUIRED": "Avatar is required",
+  "PASSWORDS_NOT_MATCHES": "Passwords do not match",
+  "CONFIRM_PASSWORD_REQUIRED": "Please confirm your password",
+  "NAME_TOO_SHORT": "Name is too short",
+  "NAME_TOO_LONG": "Name is too long",
+  "DESCRIPTION_TOO_LONG": "Description is too long",
+  "ROLE_TYPE_REQUIRED": "Role type is required",
+  "GROUP_TYPE_REQUIRED": "Group type is required"
+}
