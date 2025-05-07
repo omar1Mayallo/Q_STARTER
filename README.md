@@ -2,14 +2,6 @@
 
 Q Starter is a template project designed for both backend and frontend development. I created it to modernize our web application features and improve our team's collaboration.
 
-## Client & Server `Code`
-The code for the client and server of this system can be found in the following repositories:
-
-- Client Code: [Client Starter](https://github.com/omar1Mayallo/Q-client-starter).
-- Server Code: [Server Starter](https://github.com/omar1Mayallo/Q-server-starter).
-
-Please feel free to explore the system's functionalities and reach out if you have any inquiries or require further assistance.
-
 ## Tech Stack
 
 - **TypeScript**: Strongly typed programming language that builds on JavaScript.
